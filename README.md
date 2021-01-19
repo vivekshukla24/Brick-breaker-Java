@@ -6,3 +6,4 @@ the busy world. We made a typical brick breaker game coded in java, in which the
 player to is to control the ball using the paddle at the bottom. The player will have to move the paddle using left and right arrow keys to move the paddle and save the ball from 
 going out of the frame. In this project we have used the java as our main program language and for the backend we have used the oracle database for storing and updating player’s 
 scores.
+It has five levels of gameplay and each has it's own java file as in my repository.It has one main file where the execution is started.
