@@ -1,4 +1,4 @@
-# Brick-breaker-Java
+# Brick-breaker-Java-Project
 A classical Brick Breaker game based on simple Java programming. I made this as a simple college project with my friends for 2nd semester.
 
 In our day-to-day life we are always busy and stressed because of work and rush in the modern world. So, we made a game just enjoy and spend some time to relax and chill out of 
